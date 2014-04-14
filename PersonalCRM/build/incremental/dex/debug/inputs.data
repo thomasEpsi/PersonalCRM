@@ -1,0 +1,52 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1383177900000 629518 afee690af14bd2c32d400cdf78e746fd45c386fa C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.0\support-v4-19.0.0.jar
+1396541107226 1724 49c193c15612db8286efbafec6ac5f29347f9563 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\Societe.class
+1396541106980 1094 9802b2f7ae5f6b52b7b412cfae765f0bde696a0a C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\MainActivity.class
+1396541107528 594 717708861968854b870193da8b07157ea78378eb C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$color.class
+1396541107573 6261 84691dae0512879c7afbb2695c7bf4b384b15195 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$styleable.class
+1396541107088 2793 ae247f07caf0d4bd74ae02e92ed78d8892ec42a4 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\Produit.class
+1396541107613 4915 8b2c1ed6e694db550db7f59a1617b3dc70f32556 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$attr.class
+1396541107524 763 492ea59f0e772236e98c6452913a7c3074e842a3 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$bool.class
+1396541107375 332 150531439e12634ee17856a4415f861706e37347 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\PersonnePhysique.class
+1396541107704 460 216ca8c40188b35ac051545ba3ec664aa8e5b218 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\BuildConfig.class
+1396541107565 9076 3843db482dd049d0c8a461171baa0b55b77295fa C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$style.class
+1396541107453 6037 5439de96bd889a39e5c54eddbab0448b573e704a C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\tools\RestClient.class
+1396541106824 1130 af1a7d60f37e4d6498eda94da5bba7240d5a04be C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\tools\Util$RequestMethod.class
+1396541107508 4954 0ad8d623118ca4caf48788306f9a7412861d3a98 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$attr.class
+1396541107545 2556 b40a3b04e40244b73a77e0e64468979cd1846116 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$id.class
+1396541107441 865 10d33deeb2dfaa994b48f05a6805cc9568586b43 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\tools\RestClient$1.class
+1396541107668 379 efbd32cd8d5944226c4c2b880f968743d9cbb795 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$menu.class
+1396541107332 1792 34e5192addb6e1d968bb0c9ee3e4ada1d4916cf9 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\Fournisseur.class
+1396541107554 1589 e61b6e37f178b1762dec99bbc38abeed219413ee C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$layout.class
+1396541107357 326 15c363846db60aebfca86c3b96546f94de9d8d8d C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\PersonneMorale.class
+1396541107617 724 a90d04c4bc8e9585023894eccbafaa8e0ddddfb6 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$bool.class
+1396541107350 1546 77eff3a1a2dd45aa7af98535a1f40a14c834b491 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\Exemplaire.class
+1396541107691 880 68217a7411bd2662073b18b2bbca4c5dca88f339 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R.class
+1396541107533 1336 2743b9de6ab3708933870752de927ca4ea386b2e C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$dimen.class
+1396541106818 1203 5c85aca69134f158c8b100cb4607e29cabefc189 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\tools\Util$errorRequest.class
+1396541107621 555 abfb5513b2708be9cde826dca87124924ce4c982 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$color.class
+1396358558247 352604 eb69b5c2e53e59d82f7439f3217f46f9d98f0c89 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\exploded-bundles\ComAndroidSupportAppcompatV71900.aar\classes.jar
+1396541107607 590 c4914c0264d40c07b6d0b1205747f481bf82246e C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$anim.class
+1396541107033 1787 2e9b28840cc689accac52ee5f085be9da7340089 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\Commande.class
+1396541107655 2755 0a271d635236177b5bd89bfeb6c96c8ab853ee93 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$id.class
+1396541107659 406 bad1d94e329bab496236d184cc35122d3e03d4cd C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$integer.class
+1396541107577 1019 e0c7110299be16f0b1e5284f23b0d3e833a33b76 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R.class
+1396541107644 1395 5a33df42ab7509bda141007a4bc0231e5e5157fd C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$dimen.class
+1396541107549 445 cc00fd6e52fd1ea31f12b5b744be16bf90586e7f C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$integer.class
+1396541107687 6222 250957e25d52d18b2622b78c27823f034773bae6 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$styleable.class
+1396541106993 1195 420d4a86e537a10b57ba07e89c6ddd4e6c393cba C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\CategorieProduit.class
+1396541107679 9069 1f5376d1f4d7e2c74f5a0e7b6f2df917f43eb38f C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$style.class
+1396541106829 1531 a2d7f81e53fe9344ed13e5b3e81e361bf792cfd1 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\tools\Util.class
+1396541107664 1623 6d25f4fb243ab1f18f8c55f40bc53a1a9413f19c C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$layout.class
+1396541107017 1979 bb4b667606288db0214e6e7559beaeeee3c7c05d C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\Client.class
+1396541106845 2519 a977c84b5a4b4370d3b8f95291a678f8eedefc4b C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\AsyncTaskConnexion.class
+1396541107111 1597 e8aa9958c71df711dd436800b23dbb152fa1efa4 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\CommandeClient.class
+1396541107650 5249 721e807f05dbeb7c6a196da58b73ab33c71028cb C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$drawable.class
+1396541107302 1696 a027ce561ed2e92086348eab4b59d92fb32eac90 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\entity\CommandeFournisseur.class
+1396541107558 1141 81eda5d57a33c0a4b0ac5e7a4f97823ba60e5818 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$string.class
+1396541627068 2867 a1cd0a642915c63a83bba318e37a9afbbdbd9bd8 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\LoginActivity.class
+1396541107539 5191 52c1fba250f8eb42eaaf7b9805f1cdac62d166ac C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$drawable.class
+1396541107488 629 4e71ee1f38a344ae8c00bcbbc43c46fbbe116806 C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\android\support\v7\appcompat\R$anim.class
+1396541107673 1208 5c18acf7f58334130042ab8226e1278c4ab2b1be C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\classes\debug\com\personalcrm\R$string.class
