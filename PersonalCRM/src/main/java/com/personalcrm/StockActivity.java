@@ -1,6 +1,5 @@
 package com.personalcrm;
 
-package ...res.layout;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
