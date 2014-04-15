@@ -1,6 +1,7 @@
 package com.personalcrm;
 
 
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
@@ -45,6 +46,11 @@ public class StockActivity extends ActionBarActivity {
                 return true;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    public void displayListeProduit(ViewGroup viewGroup) {
+        Intent i = new Intent(this, ProductListActivity.class);
+        startActivity(i);
     }
 
     /**

@@ -24,6 +24,10 @@
             android:name="com.personalcrm.ContactMainActivity"
             android:label="@string/title_activity_contact_main" >
         </activity>
+        <activity
+            android:name="com.personalcrm.ProductListActivity"
+            android:label="@string/title_activity_product_list" >
+        </activity>
     </application>
 
 </manifest>

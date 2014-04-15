@@ -1,12 +1,11 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/container"
+    android:id="@+id/product_list"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
     android:padding="10dp"
-    tools:context=".com.personalcrm.StockActivity"
-    android:onClick="displayListeProduits"
+    tools:context=".com.personalcrm.ProductListActivity"
     android:longClickable="true"
     android:clickable="true"
     tools:ignore="MergeRootFrame" >
@@ -28,4 +27,3 @@
         android:gravity="right"
         android:id="@+id/quantite_produit" />
 </LinearLayout>
-
