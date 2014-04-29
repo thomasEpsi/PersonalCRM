@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merger>
 
-    <dataSet config="ComAndroidSupportAppcompatV71900.aar" >
-        <source path="C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\exploded-bundles\ComAndroidSupportAppcompatV71900.aar\assets" />
+    <dataSet config="19.0.0" >
+        <source path="C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\build\exploded-aar\com.android.support\appcompat-v7\19.0.0\assets" />
     </dataSet>
     <dataSet config="main" >
         <source path="C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM\src\main\assets" />
