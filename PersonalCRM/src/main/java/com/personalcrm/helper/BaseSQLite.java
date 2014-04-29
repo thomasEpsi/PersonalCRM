@@ -13,7 +13,7 @@ public class BaseSQLite extends SQLiteOpenHelper {
 
 
 
-    private static final String TABLE_CLIENT = "CREATE TABLE client ()";;
+    private static final String TABLE_CLIENT = "CREATE TABLE client ()";
     private static final String TABLE_COMMANDE = "CREATE TABLE commande ()";
     private static final String TABLE_COMMANDE_CLIENT = "CREATE TABLE commande_client ()";
     private static final String TABLE_COMMANDE_FOURNISSEUR = "CREATE TABLE commande_fournisseur ()";

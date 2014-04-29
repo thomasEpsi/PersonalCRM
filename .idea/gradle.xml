@@ -4,6 +4,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+<<<<<<< HEAD
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
@@ -11,6 +12,9 @@
             <option value="C:\Users\Trabelsi Thomas\AndroidStudioProjects\PersonalCRMProject\PersonalCRM" />
           </set>
         </option>
+=======
+        <option name="externalProjectPath" value="C:\Users" />
+>>>>>>> d38f422b43d6f76b34388d30ddac36b4420926b1
       </GradleProjectSettings>
     </option>
   </component>
