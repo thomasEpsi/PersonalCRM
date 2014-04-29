@@ -32,7 +32,7 @@ public class StockActivity extends ActionBarActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.stock, menu);
+       // getMenuInflater().inflate(R.menu.stock, menu);
         return true;
     }
 
