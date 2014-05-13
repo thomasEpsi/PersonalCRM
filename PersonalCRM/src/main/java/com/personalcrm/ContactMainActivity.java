@@ -1,9 +1,15 @@
 package com.personalcrm;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+
+import com.personalcrm.accueil.AccueilActivity;
+import com.personalcrm.accueil.ListContactActivity;
+import com.personalcrm.tools.Util;
 
 public class ContactMainActivity extends Activity{
 
@@ -14,27 +20,39 @@ public class ContactMainActivity extends Activity{
     }
 
 
+
+    public void goToListContact(View v){
+        Intent intent = new Intent(ContactMainActivity.this, ListContactActivity.class);
+        startActivity(intent);
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        
-        // Inflate the menu; this adds items to the action bar if it is present.
-       // getMenuInflater().inflate(R.menu.contact_main, menu);
+        getMenuInflater().inflate(R.menu.accueil_menu, menu);
+        menu.getItem(0).setTitle(Util.textDateNow());
         return true;
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-        if (id == R.id.action_settings) {
-            return true;
+        switch (item.getItemId()) {
+            case R.id.menu_now:
+                return true;
+            case R.id.menu_accueil_com:
+//                Intent activiteU = new Intent(AccueilActivity.this, CommandeActivity.class);
+//                startActivity(activiteU);
+                return true;
+            case R.id.menu_accueil:
+                Intent activiteP = new Intent(ContactMainActivity.this, AccueilActivity.class);
+                startActivity(activiteP);
+                return true;
+            case R.id.menu_accueil_stock:
+//                Intent activitet = new Intent(AccueilActivity.this, StockActivity.class);
+//                startActivity(activitet);
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
         }
-        return super.onOptionsItemSelected(item);
     }
 
-    /**
-     * A placeholder fragment containing a simple view.
-     */
 }

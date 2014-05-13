@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PersonalCRM/PersonalCRM-PersonalCRM.iml" filepath="$PROJECT_DIR$/PersonalCRM/PersonalCRM-PersonalCRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersonalCRM/PersonalCRM.iml" filepath="$PROJECT_DIR$/PersonalCRM/PersonalCRM.iml" />
       <module fileurl="file://$PROJECT_DIR$/PersonalCRMProject.iml" filepath="$PROJECT_DIR$/PersonalCRMProject.iml" />
     </modules>
   </component>

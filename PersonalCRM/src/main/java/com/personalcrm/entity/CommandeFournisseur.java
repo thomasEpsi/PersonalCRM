@@ -3,11 +3,11 @@ package com.personalcrm.entity;
 /**
  * Created by Trabelsi Thomas on 03/04/14.
  */
-public class CommandeFournisseur extends Commande {
+public class CommandeFournisseur  {
 
     private int idCommandeFournisseur;
     private Fournisseur fournisseur;
-    private Societe societe;
+
 
     public CommandeFournisseur() {}
 
@@ -27,20 +27,13 @@ public class CommandeFournisseur extends Commande {
         this.fournisseur = fournisseur;
     }
 
-    public Societe getSociete() {
-        return societe;
-    }
 
-    public void setSociete(Societe societe) {
-        this.societe = societe;
-    }
 
     @Override
     public String toString() {
         return "CommandeFournisseur{" +
                 "idCommandeFournisseur=" + idCommandeFournisseur +
                 ", fournisseur=" + fournisseur +
-                ", societe=" + societe +
                 '}';
     }
 }

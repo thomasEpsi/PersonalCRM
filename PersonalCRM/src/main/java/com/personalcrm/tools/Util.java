@@ -1,6 +1,9 @@
 package com.personalcrm.tools;
 
 import java.security.*;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Locale;
 
 /**
  * Created by Trabelsi Thomas on 03/04/14.
@@ -38,6 +41,13 @@ public class Util {
         }
         return null;
     }
+    public static String textDateNow() {
+        Locale locale = Locale.FRANCE;
+        Date actuelle = new Date();
+        SimpleDateFormat dateFormat = new SimpleDateFormat("EEEE, d MMM yyyy", locale);
+        String dat = dateFormat.format(actuelle);
 
+        return dat;
+    }
 
 }
