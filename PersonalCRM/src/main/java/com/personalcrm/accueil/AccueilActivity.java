@@ -16,7 +16,7 @@ import android.widget.ExpandableListView.OnGroupCollapseListener;
 import android.widget.ExpandableListView.OnGroupExpandListener;
 import android.widget.Toast;
 
-import com.personalcrm.ContactMainActivity;
+import com.personalcrm.contact.ContactMainActivity;
 import com.personalcrm.R;
 import com.personalcrm.tools.Util;
 

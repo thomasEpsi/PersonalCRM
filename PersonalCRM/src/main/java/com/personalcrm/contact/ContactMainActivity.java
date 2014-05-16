@@ -1,4 +1,4 @@
-package com.personalcrm;
+package com.personalcrm.contact;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -7,8 +7,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.personalcrm.R;
 import com.personalcrm.accueil.AccueilActivity;
-import com.personalcrm.accueil.ListContactActivity;
 import com.personalcrm.tools.Util;
 
 public class ContactMainActivity extends Activity{
@@ -21,8 +21,19 @@ public class ContactMainActivity extends Activity{
 
 
 
-    public void goToListContact(View v){
+    public void goToListContactClient(View v){
         Intent intent = new Intent(ContactMainActivity.this, ListContactActivity.class);
+        intent.putExtra("type_data",1);
+        startActivity(intent);
+    }
+    public void goToListContactFournisseur(View v){
+        Intent intent = new Intent(ContactMainActivity.this, ListContactActivity.class);
+        intent.putExtra("type_data",2);
+        startActivity(intent);
+    }
+    public void goToListContactEmploye(View v){
+        Intent intent = new Intent(ContactMainActivity.this, ListContactActivity.class);
+        intent.putExtra("type_data",3);
         startActivity(intent);
     }
 

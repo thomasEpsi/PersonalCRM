@@ -3,7 +3,7 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        tools:context="com.personalcrm.ContactMainActivity">
+        tools:context="com.personalcrm.contact.ContactMainActivity">
 
 
         <TextView
@@ -50,7 +50,7 @@
                     android:id="@+id/client_button"
                     android:layout_gravity="center_horizontal"
                     android:textStyle="bold"
-                    android:onClick="goToListContact"
+                    android:onClick="goToListContactClient"
                     android:textSize="30sp"
                     android:layout_marginLeft="75dp" />
 
@@ -82,6 +82,7 @@
                     android:background="#222222"
                     android:layout_gravity="center_horizontal"
                     android:textStyle="bold"
+                    android:onClick="goToListContactFournisseur"
                     android:textSize="30sp"
                     android:layout_marginLeft="75dp" />
 
@@ -112,6 +113,7 @@
                     android:id="@+id/employe_button"
                     android:layout_gravity="center_horizontal"
                     android:textStyle="bold"
+                    android:onClick="goToListContactEmploye"
                     android:textSize="30sp"
                     android:layout_marginLeft="75dp" />
 
